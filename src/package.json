@@ -1,0 +1,17 @@
+{
+  "name": "nuxt-ssr-firebase",
+  "version": "1.0.0",
+  "description": "A example repo for using nuxt with firebase hosting and cloud functions",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.14.12"
+  },
+  "devDependencies": {
+
+  }
+}

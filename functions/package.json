@@ -1,0 +1,29 @@
+{
+  "name": "functions",
+  "description": "Cloud Functions for Firebase",
+  "engines": {
+    "node": "8"
+  },
+  "scripts": {
+  },
+  "dependencies": {
+    "acorn": "^6.1.1",
+    "clone": "^2.1.1",
+    "compression": "^1.7.3",
+    "core-js": "^2.5.7",
+    "debug": "^3.1.0",
+    "firebase-admin": "^8.13.0",
+    "firebase-functions": "^3.13.1",
+    "lodash": "^4.17.10",
+    "nuxt-start": "^2.14.12",
+    "vue": "^2.6.12",
+    "vue-meta": "^1.6.0",
+    "vue-router": "^4.0.3",
+    "vue-server-renderer": "^2.6.12",
+    "vue-template-compiler": "^2.6.12",
+    "vuex": "^4.0.0"
+  },
+  "devDependencies": {
+
+  }
+}
